@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/eyassug/asp-net-file-providers-extensions</projectUrl>
+    <iconUrl>https://i.ibb.co/Nt8fkq1/cloud-icon.png</iconUrl>
+    <description>Azure Blob Storage file provider (IFileProvider) for ASP.NET Core.</description>
+    <copyright>Copyright 2020</copyright>
+    <tags>IFileProvider FileProvider Azure Blob Storage</tags>
+  </metadata>
+</package>

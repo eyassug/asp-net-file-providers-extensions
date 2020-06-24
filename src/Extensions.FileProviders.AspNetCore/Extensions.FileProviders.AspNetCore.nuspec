@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/eyassug/asp-net-file-providers-extensions</projectUrl>
+    <iconUrl>https://i.ibb.co/Nt8fkq1/cloud-icon.png</iconUrl>
+    <description>IStorageProvider extensions for uploading IFormFile objects</description>
+    <copyright>Copyright 2020</copyright>
+    <tags>IFormFile AspNetCore IFileProvider FileProvider Amazon S3 Google Azure Storage</tags>
+  </metadata>
+</package>
